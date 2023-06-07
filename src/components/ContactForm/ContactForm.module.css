@@ -17,5 +17,6 @@
 
 .label {
     display: flex;
+    gap: 5px;
     flex-direction: column;
 }

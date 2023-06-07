@@ -6,10 +6,7 @@ import css from './App.module.css';
 
 class App extends Component {
   state = {
-    contacts: [
-      { name: 'dffd', number: '+545454545' },
-      { name: 'dffd', number: '+545454545' },
-    ],
+    contacts: [],
     filter: '',
   };
   //принимает инфу с низов
